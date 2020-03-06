@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, Component } from "react";
 import Mapbox from "mapbox-gl";
 import "./App.css";
 import mapboxgl from "mapbox-gl";
@@ -6,13 +6,13 @@ import mapboxgl from "mapbox-gl";
 mapboxgl.accessToken =
   "pk.eyJ1IjoiYW5kcmV3LWZyYXppZXI2IiwiYSI6ImNrN2djajVocTAwN3Ezb3RkY2xldGllM2gifQ.zd_rl93xQrHDhFddfdpuLQ";
 
-export default class App {
+export default class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      lng: 5,
-      lat: 34,
-      zoom: 2
+      lng: -75.409,
+      lat: 42.7986,
+      zoom: 5.7
     };
   }
   componentDidMount() {
