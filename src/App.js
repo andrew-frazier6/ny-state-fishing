@@ -5,8 +5,7 @@ import axios from "axios";
 import data from "./data.json";
 
 mapboxgl.accessToken =
-  "pk.eyJ1IjoiYW5kcmV3LWZyYXppZXI2IiwiYSI6ImNrN2djajVocTAwN3Ezb3RkY2xldGllM2gifQ.zd_rl93xQrHDhFddfdpuLQ";
-
+  "pk.eyJ1IjoiYW5kcmV3LWZyYXppZXI2IiwiYSI6ImNrN2p6aHg1OTBicmMzZGxremVzaXE0ZmwifQ.L0Zrsw5cgsZNGRlXgsIHUA";
 export default class App extends Component {
   constructor(props) {
     super(props);
