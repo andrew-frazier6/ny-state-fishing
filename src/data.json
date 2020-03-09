@@ -1,0 +1,3250 @@
+[
+  {
+    "_id": "row-jqsj_b7wg~d43s",
+    "_uuid": "00000000-0000-0000-561C-2055B6265E46",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-jqsj_b7wg~d43s",
+    "name": "Trout River",
+    "fish_spec": ["Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31444.html"
+    },
+    "county": "Franklin",
+    "point_x": "-74.293337254",
+    "point_y": "44.918344554",
+    "location": {
+      "latitude": "44.918344554",
+      "longitude": "-74.293337254"
+    }
+  },
+  {
+    "_id": "row-s3dn~wpj8_h7jm",
+    "_uuid": "00000000-0000-0000-488A-E85FF3718485",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-s3dn~wpj8_h7jm",
+    "name": "West Branch Croton River",
+    "fish_spec": ["Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31478.html"
+    },
+    "county": "Putnam",
+    "point_x": "-73.732240069",
+    "point_y": "41.447425921",
+    "location": {
+      "latitude": "41.447425921",
+      "longitude": "-73.732240069"
+    }
+  },
+  {
+    "_id": "row-z8ut.7j9p~iqku",
+    "_uuid": "00000000-0000-0000-2C11-8F747072CCC1",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-z8ut.7j9p~iqku",
+    "name": "Stoney Creek",
+    "fish_spec": ["Brown Trout", "Steelhead", "Coho Salmon", "Chinook Salmon"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31420.html"
+    },
+    "county": "Jefferson",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrstonyck.pdf"
+    },
+    "point_x": "-76.200169676",
+    "point_y": "43.837479812",
+    "location": {
+      "latitude": "43.837479812",
+      "longitude": "-76.200169676"
+    }
+  },
+  {
+    "_id": "row-vues-eht7.c7ts",
+    "_uuid": "00000000-0000-0000-3590-F3F35638F9C2",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-vues-eht7.c7ts",
+    "name": "Raystone Creek",
+    "fish_spec": ["Brook Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31454.html"
+    },
+    "county": "Jefferson",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Winona State Forest (DEC)",
+    "point_x": "-75.946453998",
+    "point_y": "43.735181544",
+    "location": {
+      "latitude": "43.735181544",
+      "longitude": "-75.946453998"
+    }
+  },
+  {
+    "_id": "row-3t6c_3c73~yiqh",
+    "_uuid": "00000000-0000-0000-7B35-65045DA871D2",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-3t6c_3c73~yiqh",
+    "name": "Mohawk River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Tiger Musky",
+      "Northern Pike",
+      "Walleye",
+      "Carp"
+    ],
+    "comments": "None",
+    "county": "Schenectady",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Maalwyck Park (Municipal)",
+    "point_x": "-73.991576443",
+    "point_y": "42.832453089",
+    "location": {
+      "latitude": "42.832453089",
+      "longitude": "-73.991576443"
+    }
+  },
+  {
+    "_id": "row-rqbh.ynff-rndn",
+    "_uuid": "00000000-0000-0000-07C4-FB9EEB0F2806",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-rqbh.ynff-rndn",
+    "name": "Tonawanda Creek (Barge Canal)",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Northern Pike",
+      "Walleye",
+      "Carp"
+    ],
+    "comments": "None",
+    "county": "Niagara",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "West Canal County Park",
+    "point_x": "-78.821887614",
+    "point_y": "43.051960018",
+    "location": {
+      "latitude": "43.051960018",
+      "longitude": "-78.821887614"
+    }
+  },
+  {
+    "_id": "row-ufcr_32i3.ugjc",
+    "_uuid": "00000000-0000-0000-7E77-47DA417E9E97",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-ufcr_32i3.ugjc",
+    "name": "Esopus Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31500.html"
+    },
+    "county": "Ulster",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfresopusck.pdf"
+    },
+    "point_x": "-74.285666094",
+    "point_y": "42.049169943",
+    "location": {
+      "latitude": "42.049169943",
+      "longitude": "-74.285666094"
+    }
+  },
+  {
+    "_id": "row-jrbq.spmt.xw3y",
+    "_uuid": "00000000-0000-0000-A36D-7EEE97E52585",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-jrbq.spmt.xw3y",
+    "name": "Esopus Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31500.html"
+    },
+    "county": "Ulster",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfresopusck.pdf"
+    },
+    "point_x": "-74.271508657",
+    "point_y": "42.002739173",
+    "location": {
+      "latitude": "42.002739173",
+      "longitude": "-74.271508657"
+    }
+  },
+  {
+    "_id": "row-7adk-6brg~77ye",
+    "_uuid": "00000000-0000-0000-817A-F1164DFAA756",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-7adk-6brg~77ye",
+    "name": "Susquehanna River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Sunfish",
+      "Muskellunge",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "county": "Otsego",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/42299.html"
+    },
+    "point_x": "-74.975157819",
+    "point_y": "42.504856486",
+    "location": {
+      "latitude": "42.504856486",
+      "longitude": "-74.975157819"
+    }
+  },
+  {
+    "_id": "row-gemu-v76t_aj9q",
+    "_uuid": "00000000-0000-0000-4443-078EB1CBBFC6",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-gemu-v76t_aj9q",
+    "name": "Niagara River (Upper)",
+    "fish_spec": [
+      "Rainbow Trout",
+      "Smallmouth Bass ",
+      "Largemouth Bass",
+      "Sunfish ",
+      "Yellow Perch",
+      "Muskellunge",
+      "Northern Pike",
+      "Walleye",
+      "Carp"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31428.html"
+    },
+    "county": "Niagara",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Gratwick Riverside Park (Municipal)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23883.html"
+    },
+    "point_x": "-78.899280741",
+    "point_y": "43.053921139",
+    "location": {
+      "latitude": "43.053921139",
+      "longitude": "-78.899280741"
+    }
+  },
+  {
+    "_id": "row-cavq~hrab.6cua",
+    "_uuid": "00000000-0000-0000-9656-B06F3CFC0853",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-cavq~hrab.6cua",
+    "name": "Beaver Kill",
+    "fish_spec": ["Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31496.html"
+    },
+    "county": "Sullivan",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrbeaverkill.pdf"
+    },
+    "point_x": "-74.928044613",
+    "point_y": "41.949559169",
+    "location": {
+      "latitude": "41.949559169",
+      "longitude": "-74.928044613"
+    }
+  },
+  {
+    "_id": "row-8r73_2rew.pcc5",
+    "_uuid": "00000000-0000-0000-CB8C-7564505A3DE2",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-8r73_2rew.pcc5",
+    "name": "West Branch Ausable River",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31443.html"
+    },
+    "county": "Essex",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Saranac Lake Wild Forest (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrwbausable.pdf"
+    },
+    "point_x": "-73.920457074",
+    "point_y": "44.303790534",
+    "location": {
+      "latitude": "44.303790534",
+      "longitude": "-73.920457074"
+    }
+  },
+  {
+    "_id": "row-xtgy-ju3f.yqp4",
+    "_uuid": "00000000-0000-0000-80BF-E07B17C163B0",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-xtgy-ju3f.yqp4",
+    "name": "Willowemoc Creek",
+    "fish_spec": ["Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31496.html"
+    },
+    "county": "Sullivan",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement - Willowemoc State Forest (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrwillocklb.pdf"
+    },
+    "point_x": "-74.706916166",
+    "point_y": "41.912628694",
+    "location": {
+      "latitude": "41.912628694",
+      "longitude": "-74.706916166"
+    }
+  },
+  {
+    "_id": "row-yfd4~mse9.jtge",
+    "_uuid": "00000000-0000-0000-C6D8-D39A20DEE600",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-yfd4~mse9.jtge",
+    "name": "Delaware River (Lower)",
+    "fish_spec": ["Smallmouth Bass", "Muskellunge ", "Walleye", "Striped Bass"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31496.html"
+    },
+    "county": "Sullivan",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23864.html"
+    },
+    "point_x": "-75.057449516",
+    "point_y": "41.669791341",
+    "location": {
+      "latitude": "41.669791341",
+      "longitude": "-75.057449516"
+    }
+  },
+  {
+    "_id": "row-8smx~278f.r4gy",
+    "_uuid": "00000000-0000-0000-4A21-E6843E964950",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-8smx~278f.r4gy",
+    "name": "Cayuta Creek",
+    "fish_spec": ["Brown Trout", "Sunfish"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31435.html"
+    },
+    "county": "Chemung",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrcayutack.pdf"
+    },
+    "point_x": "-76.611963564",
+    "point_y": "42.227337629",
+    "location": {
+      "latitude": "42.227337629",
+      "longitude": "-76.611963564"
+    }
+  },
+  {
+    "_id": "row-cjxz.p8az.sp6g",
+    "_uuid": "00000000-0000-0000-9337-BE2014D4E820",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-cjxz.p8az.sp6g",
+    "name": "Delaware River (Lower)",
+    "fish_spec": ["Smallmouth Bass", "Muskellunge", "Walleye", "Striped Bass"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31496.html"
+    },
+    "county": "Sullivan",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23864.html"
+    },
+    "point_x": "-74.912555402",
+    "point_y": "41.476434942",
+    "location": {
+      "latitude": "41.476434942",
+      "longitude": "-74.912555402"
+    }
+  },
+  {
+    "_id": "row-6aqa-939u_9cw2",
+    "_uuid": "00000000-0000-0000-21DD-3146A57D51E2",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-6aqa-939u_9cw2",
+    "name": "West Kill",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "county": "Greene",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrwestkill.pdf"
+    },
+    "point_x": "-74.323063462",
+    "point_y": "42.192545573",
+    "location": {
+      "latitude": "42.192545573",
+      "longitude": "-74.323063462"
+    }
+  },
+  {
+    "_id": "row-pisp_a526-b8e6",
+    "_uuid": "00000000-0000-0000-70C4-D39341E1C945",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-pisp_a526-b8e6",
+    "name": "Mohawk River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Tiger Musky",
+      "Northern Pike",
+      "Walleye",
+      "Carp"
+    ],
+    "comments": "None",
+    "county": "Herkimer",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23891.html"
+    },
+    "point_x": "-74.978441496",
+    "point_y": "43.018356349",
+    "location": {
+      "latitude": "43.018356349",
+      "longitude": "-74.978441496"
+    }
+  },
+  {
+    "_id": "row-cy8g-dnpd-k5ij",
+    "_uuid": "00000000-0000-0000-5B06-ED4A68863125",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-cy8g-dnpd-k5ij",
+    "name": "Otselic River",
+    "fish_spec": ["Brown Trout", "Walleye"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31436.html"
+    },
+    "county": "Chenango",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/r7otselripfr.pdf"
+    },
+    "point_x": "-75.788757735",
+    "point_y": "42.6417495",
+    "location": {
+      "latitude": "42.6417495",
+      "longitude": "-75.788757735"
+    }
+  },
+  {
+    "_id": "row-t8ct-k4ak.jm4t",
+    "_uuid": "00000000-0000-0000-1EB5-44D8CEAF822C",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-t8ct-k4ak.jm4t",
+    "name": "Chemung River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Tiger Musky",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31435.html"
+    },
+    "county": "Chemung",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23906.html"
+    },
+    "point_x": "-76.817198164",
+    "point_y": "42.082901848",
+    "location": {
+      "latitude": "42.082901848",
+      "longitude": "-76.817198164"
+    }
+  },
+  {
+    "_id": "row-sfit~9xt5.mbwe",
+    "_uuid": "00000000-0000-0000-C43D-13F7216D8F8D",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-sfit~9xt5.mbwe",
+    "name": "East Branch Delaware River (Lower)",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31440.html"
+    },
+    "county": "Delaware",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement - Tomannex State Forest (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfreastbranch.pdf"
+    },
+    "point_x": "-75.096712351",
+    "point_y": "42.021475182",
+    "location": {
+      "latitude": "42.021475182",
+      "longitude": "-75.096712351"
+    }
+  },
+  {
+    "_id": "row-n2ec-fwgs.5dzt",
+    "_uuid": "00000000-0000-0000-F438-422E1C301A4E",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-n2ec-fwgs.5dzt",
+    "name": "Little Hoosic River",
+    "fish_spec": ["Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31479.html"
+    },
+    "county": "Rensselear",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrhoosic.pdf"
+    },
+    "point_x": "-73.36211594",
+    "point_y": "42.731821699",
+    "location": {
+      "latitude": "42.731821699",
+      "longitude": "-73.36211594"
+    }
+  },
+  {
+    "_id": "row-75bm.dytv.3zyc",
+    "_uuid": "00000000-0000-0000-BB74-E307FDCC21FF",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-75bm.dytv.3zyc",
+    "name": "South Sandy Creek",
+    "fish_spec": ["Brook Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31420.html"
+    },
+    "county": "Jefferson",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrssandyck.pdf"
+    },
+    "point_x": "-75.925293291",
+    "point_y": "43.777696352",
+    "location": {
+      "latitude": "43.777696352",
+      "longitude": "-75.925293291"
+    }
+  },
+  {
+    "_id": "row-yxnh.be5q~5e48",
+    "_uuid": "00000000-0000-0000-8903-571CAC35D5DE",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-yxnh.be5q~5e48",
+    "name": "Hudson River (Lower)",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Tiger Musky",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish",
+      "Striped bass"
+    ],
+    "comments": "Anglers fishing for migratory marine species must enroll in the recreational marine fishing registry (518-402-8843).",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31504.html"
+    },
+    "county": "Westchester",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "JFK Marina and Park (Municipal)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23856.html"
+    },
+    "point_x": "-73.897442938",
+    "point_y": "40.956403965",
+    "location": {
+      "latitude": "40.956403965",
+      "longitude": "-73.897442938"
+    }
+  },
+  {
+    "_id": "row-crpd.wnr6_9cci",
+    "_uuid": "00000000-0000-0000-D083-64F784DD84CA",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-crpd.wnr6_9cci",
+    "name": "Eighteen Mile Creek",
+    "fish_spec": ["Brown Trout", "Steelhead", "Smallmouth Bass"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31420.html"
+    },
+    "county": "Erie",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/eighteenmilesouth.pdf"
+    },
+    "point_x": "-78.966497439",
+    "point_y": "42.711455717",
+    "location": {
+      "latitude": "42.711455717",
+      "longitude": "-78.966497439"
+    }
+  },
+  {
+    "_id": "row-m69z-7m6v~2yhk",
+    "_uuid": "00000000-0000-0000-87ED-421FA309DA1E",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-m69z-7m6v~2yhk",
+    "name": "Cryder Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31494.html"
+    },
+    "county": "Allegany",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/crydercreek.pdf"
+    },
+    "point_x": "-77.774019415",
+    "point_y": "42.036298217",
+    "location": {
+      "latitude": "42.036298217",
+      "longitude": "-77.774019415"
+    }
+  },
+  {
+    "_id": "row-dw63.nejg_7ahc",
+    "_uuid": "00000000-0000-0000-D9FC-4961106F4DB5",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-dw63.nejg_7ahc",
+    "name": "East Branch Fish Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Atlantic Salmon"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31456.html"
+    },
+    "county": "Lewis",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrebfishcreek.pdf"
+    },
+    "point_x": "-75.598849611",
+    "point_y": "43.443812362",
+    "location": {
+      "latitude": "43.443812362",
+      "longitude": "-75.598849611"
+    }
+  },
+  {
+    "_id": "row-s936-n43q-jnw5",
+    "_uuid": "00000000-0000-0000-2B67-C4CF2A6594AC",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-s936-n43q-jnw5",
+    "name": "Charlotte Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "county": "Delaware",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrcharlotte.pdf"
+    },
+    "point_x": "-74.797009563",
+    "point_y": "42.495790582",
+    "location": {
+      "latitude": "42.495790582",
+      "longitude": "-74.797009563"
+    }
+  },
+  {
+    "_id": "row-eckc~wdjf-qfjd",
+    "_uuid": "00000000-0000-0000-DBD3-4CB2E5C13690",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-eckc~wdjf-qfjd",
+    "name": "East Branch Delaware River (Lower)",
+    "fish_spec": [
+      "Brook Trout",
+      "Brown Trout",
+      "Rainbow Trout",
+      "Smallmouth Bass",
+      "Walleye"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31440.html"
+    },
+    "county": "Delaware",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Public Easement - DEC Boat Launch",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfreastbranch.pdf"
+    },
+    "point_x": "-75.184252676",
+    "point_y": "41.964690101",
+    "location": {
+      "latitude": "41.964690101",
+      "longitude": "-75.184252676"
+    }
+  },
+  {
+    "_id": "row-xrzz_pakf~spqw",
+    "_uuid": "00000000-0000-0000-682D-A3BED8398ACA",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-xrzz_pakf~spqw",
+    "name": "Catharine Creek",
+    "fish_spec": ["Rainbow Trout"],
+    "comments": "None",
+    "county": "Schuyler",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrcathrneck.pdf"
+    },
+    "point_x": "-76.845440945",
+    "point_y": "42.295056407",
+    "location": {
+      "latitude": "42.295056407",
+      "longitude": "-76.845440945"
+    }
+  },
+  {
+    "_id": "row-pyh3.jnnh-wd96",
+    "_uuid": "00000000-0000-0000-FE87-2EBE1D518D21",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-pyh3.jnnh-wd96",
+    "name": "Black River",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31456.html"
+    },
+    "county": "Lewis",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "point_x": "-75.319019606",
+    "point_y": "43.555043775",
+    "location": {
+      "latitude": "43.555043775",
+      "longitude": "-75.319019606"
+    }
+  },
+  {
+    "_id": "row-558d~gzx3~2j55",
+    "_uuid": "00000000-0000-0000-554E-10E9B34BD840",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-558d~gzx3~2j55",
+    "name": "Otselic River",
+    "fish_spec": ["Brown Trout", "Walleye"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31436.html"
+    },
+    "county": "Chenango",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/r7otselripfr.pdf"
+    },
+    "point_x": "-75.758153169",
+    "point_y": "42.680390064",
+    "location": {
+      "latitude": "42.680390064",
+      "longitude": "-75.758153169"
+    }
+  },
+  {
+    "_id": "row-sdw7.vzpt~xtj7",
+    "_uuid": "00000000-0000-0000-9517-D3986F6AD9ED",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-sdw7.vzpt~xtj7",
+    "name": "Hudson River (Lower)",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Tiger Musky",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish",
+      "Striped bass"
+    ],
+    "comments": "Anglers fishing for migratory marine species must enroll in the recreational marine fishing registry (518-402-8843).",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31500.html"
+    },
+    "county": "Ulster",
+    "public_acc": ["Boat Launch"],
+    "access_own": "Municipal",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23861.html"
+    },
+    "point_x": "-73.94011231",
+    "point_y": "42.044900483",
+    "location": {
+      "latitude": "42.044900483",
+      "longitude": "-73.94011231"
+    }
+  },
+  {
+    "_id": "row-k6ik_pa9d-6i9a",
+    "_uuid": "00000000-0000-0000-EDCC-CB7669723178",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-k6ik_pa9d-6i9a",
+    "name": "Kayaderosseras Creek",
+    "fish_spec": ["Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31482.html"
+    },
+    "county": "Saratoga",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrkayadeross.pdf"
+    },
+    "point_x": "-73.866740662",
+    "point_y": "43.031692383",
+    "location": {
+      "latitude": "43.031692383",
+      "longitude": "-73.866740662"
+    }
+  },
+  {
+    "_id": "row-fxmc~f3gu_qi49",
+    "_uuid": "00000000-0000-0000-86B1-6F867A6D919F",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-fxmc~f3gu_qi49",
+    "name": "Marsh Creek",
+    "fish_spec": ["Brown Trout", "Chinook Salmon", "Coho Salmon", "Steelhead"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31420.html"
+    },
+    "county": "Orleans",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfroakorchrv.pdf"
+    },
+    "point_x": "-78.134251767",
+    "point_y": "43.327022811",
+    "location": {
+      "latitude": "43.327022811",
+      "longitude": "-78.134251767"
+    }
+  },
+  {
+    "_id": "row-wzer-kqd4.e9w4",
+    "_uuid": "00000000-0000-0000-68B5-5F449292C6CD",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-wzer-kqd4.e9w4",
+    "name": "Salmon River",
+    "fish_spec": [
+      "Brown Trout",
+      "Steelhead",
+      "Chinook Salmon",
+      "Coho Salmon",
+      "Atlantic Salmon",
+      "Smallmouth Bass"
+    ],
+    "comments": "None",
+    "county": "Oswego",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/37926.html"
+    },
+    "point_x": "-76.021057155",
+    "point_y": "43.524217858",
+    "location": {
+      "latitude": "43.524217858",
+      "longitude": "-76.021057155"
+    }
+  },
+  {
+    "_id": "row-vbga-fdhy_anpp",
+    "_uuid": "00000000-0000-0000-7C5D-4BDAAD5AF3ED",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-vbga-fdhy_anpp",
+    "name": "Salmon River",
+    "fish_spec": [
+      "Brown Trout",
+      "Steelhead",
+      "Chinook Salmon",
+      "Coho Salmon",
+      "Atlantic Salmon",
+      "Smallmouth Bass"
+    ],
+    "comments": "None",
+    "county": "Oswego",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/37926.html"
+    },
+    "point_x": "-76.020122618",
+    "point_y": "43.523278062",
+    "location": {
+      "latitude": "43.523278062",
+      "longitude": "-76.020122618"
+    }
+  },
+  {
+    "_id": "row-n58q~cxrv~u3i3",
+    "_uuid": "00000000-0000-0000-B5C9-0BD127F3895E",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-n58q~cxrv~u3i3",
+    "name": "Timmerman Creek",
+    "fish_spec": ["Brown Trout"],
+    "comments": "None",
+    "county": "Montgomery",
+    "point_x": "-74.683940305",
+    "point_y": "43.017229195",
+    "location": {
+      "latitude": "43.017229195",
+      "longitude": "-74.683940305"
+    }
+  },
+  {
+    "_id": "row-kag8-hnwh~3efs",
+    "_uuid": "00000000-0000-0000-85D4-1E51010B0E39",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-kag8-hnwh~3efs",
+    "name": "Esopus Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31500.html"
+    },
+    "county": "Ulster",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfresopusck.pdf"
+    },
+    "point_x": "-74.40198686",
+    "point_y": "42.119055648",
+    "location": {
+      "latitude": "42.119055648",
+      "longitude": "-74.40198686"
+    }
+  },
+  {
+    "_id": "row-6fja-sn3b-hwf6",
+    "_uuid": "00000000-0000-0000-5EF6-23920ECA10A4",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-6fja-sn3b-hwf6",
+    "name": "Ischua Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31432.html"
+    },
+    "county": "Cattaraugus",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/ischuacreek.pdf"
+    },
+    "point_x": "-78.46307783",
+    "point_y": "42.335441593",
+    "location": {
+      "latitude": "42.335441593",
+      "longitude": "-78.46307783"
+    }
+  },
+  {
+    "_id": "row-zp8y_65t9.bfuy",
+    "_uuid": "00000000-0000-0000-3205-6B72B1383F9C",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-zp8y_65t9.bfuy",
+    "name": "Chenango River",
+    "fish_spec": ["Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31460.html"
+    },
+    "county": "Madison",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/63442.html"
+    },
+    "point_x": "-75.621848174",
+    "point_y": "42.876058813",
+    "location": {
+      "latitude": "42.876058813",
+      "longitude": "-75.621848174"
+    }
+  },
+  {
+    "_id": "row-rq73.dp7q.833x",
+    "_uuid": "00000000-0000-0000-1C70-39EFA1D83C81",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-rq73.dp7q.833x",
+    "name": "West Branch Delaware River (Upper)",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "NYCDEP permit required (1-800-574-LAND).",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31440.html"
+    },
+    "county": "Delaware",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrwestbranch.pdf"
+    },
+    "point_x": "-74.703842749",
+    "point_y": "42.347933425",
+    "location": {
+      "latitude": "42.347933425",
+      "longitude": "-74.703842749"
+    }
+  },
+  {
+    "_id": "row-5598~qpac_qhgy",
+    "_uuid": "00000000-0000-0000-F371-5AF20B5E1D9A",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-5598~qpac_qhgy",
+    "name": "Oswegatchie River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31493.html"
+    },
+    "county": "St. Lawrence",
+    "public_acc": ["Boat Launc)"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23866.html"
+    },
+    "point_x": "-75.253802855",
+    "point_y": "44.323789512",
+    "location": {
+      "latitude": "44.323789512",
+      "longitude": "-75.253802855"
+    }
+  },
+  {
+    "_id": "row-ve52_bhv6-ziy4",
+    "_uuid": "00000000-0000-0000-33F9-B4092953876E",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-ve52_bhv6-ziy4",
+    "name": "Indian River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31493.html"
+    },
+    "county": "Jefferson",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Indian River State Wildlife Management Area (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23866.html"
+    },
+    "point_x": "-75.651523083",
+    "point_y": "44.368110291",
+    "location": {
+      "latitude": "44.368110291",
+      "longitude": "-75.651523083"
+    }
+  },
+  {
+    "_id": "row-45cp_qih2.95ci",
+    "_uuid": "00000000-0000-0000-0B4C-88E77C92A8F3",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-45cp_qih2.95ci",
+    "name": "East Branch Ausable River",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31443.html"
+    },
+    "county": "Essex",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrebausable.pdf"
+    },
+    "point_x": "-73.709228364",
+    "point_y": "44.388793371",
+    "location": {
+      "latitude": "44.388793371",
+      "longitude": "-73.709228364"
+    }
+  },
+  {
+    "_id": "row-auaj.qm6r~mijh",
+    "_uuid": "00000000-0000-0000-32FB-7B798BD5D877",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-auaj.qm6r~mijh",
+    "name": "Chemung River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Tiger Musky",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31435.html"
+    },
+    "county": "Chemung",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23906.html"
+    },
+    "point_x": "-76.932646575",
+    "point_y": "42.121335045",
+    "location": {
+      "latitude": "42.121335045",
+      "longitude": "-76.932646575"
+    }
+  },
+  {
+    "_id": "row-52bu~xj3p.bxkd",
+    "_uuid": "00000000-0000-0000-9105-3C24011B4258",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-52bu~xj3p.bxkd",
+    "name": "Catharine Creek",
+    "fish_spec": ["Rainbow Trout"],
+    "comments": "None",
+    "county": "Schuyler",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrcathrneck.pdf"
+    },
+    "point_x": "-76.843843245",
+    "point_y": "42.318688306",
+    "location": {
+      "latitude": "42.318688306",
+      "longitude": "-76.843843245"
+    }
+  },
+  {
+    "_id": "row-r8hn-mnyv-5ta7",
+    "_uuid": "00000000-0000-0000-7F9B-446A87D1D5E0",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-r8hn-mnyv-5ta7",
+    "name": "Chenango River",
+    "fish_spec": ["Muskellunge", "Northern Pike", "Walleye", "Carp"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31436.html"
+    },
+    "county": "Chenango",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/63442.html"
+    },
+    "point_x": "-75.513107368",
+    "point_y": "42.52378793",
+    "location": {
+      "latitude": "42.52378793",
+      "longitude": "-75.513107368"
+    }
+  },
+  {
+    "_id": "row-7hu4.irqq-d2hp",
+    "_uuid": "00000000-0000-0000-ECEF-F3F6B76F2185",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-7hu4.irqq-d2hp",
+    "name": "Arnold Brook",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "county": "Clinton",
+    "point_x": "-73.541982496",
+    "point_y": "44.593677719",
+    "location": {
+      "latitude": "44.593677719",
+      "longitude": "-73.541982496"
+    }
+  },
+  {
+    "_id": "row-ivmc_3cx6-4hpp",
+    "_uuid": "00000000-0000-0000-2FE9-B426F23347F9",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-ivmc_3cx6-4hpp",
+    "name": "Upper Peconic River",
+    "fish_spec": ["Largemouth Bass", "Sunfish", "Chain Pickerel"],
+    "comments": "DEC Access permit required (631-444-0280).",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31495.html"
+    },
+    "county": "Suffolk",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Otis Pike Preserve (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23865.html"
+    },
+    "point_x": "-72.743344951",
+    "point_y": "40.905093268",
+    "location": {
+      "latitude": "40.905093268",
+      "longitude": "-72.743344951"
+    }
+  },
+  {
+    "_id": "row-jg4q~h4h4~fjjx",
+    "_uuid": "00000000-0000-0000-C0DA-9309C040B097",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-jg4q~h4h4~fjjx",
+    "name": "North Branch Great Chazy River",
+    "fish_spec": ["Brown Trout", "Rainbow Trout", "Smallmouth Bass"],
+    "comments": "None",
+    "county": "Clinton",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrnbchazy.pdf"
+    },
+    "point_x": "-73.689126893",
+    "point_y": "44.930086984",
+    "location": {
+      "latitude": "44.930086984",
+      "longitude": "-73.689126893"
+    }
+  },
+  {
+    "_id": "row-cj5b.8ky4_kdt9",
+    "_uuid": "00000000-0000-0000-880C-BBBBEF4D33E0",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-cj5b.8ky4_kdt9",
+    "name": "Owasco Inlet",
+    "fish_spec": ["Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "county": "Cayuga",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/r7owascoinpfr.pdf"
+    },
+    "point_x": "-76.407167784",
+    "point_y": "42.641946291",
+    "location": {
+      "latitude": "42.641946291",
+      "longitude": "-76.407167784"
+    }
+  },
+  {
+    "_id": "row-sqd5.46pi_bg3a",
+    "_uuid": "00000000-0000-0000-BD6D-38043787838F",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-sqd5.46pi_bg3a",
+    "name": "Catskill Creek",
+    "fish_spec": ["Brown Trout"],
+    "comments": "None",
+    "county": "Albany",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrcatskillc.pdf"
+    },
+    "point_x": "-74.212227354",
+    "point_y": "42.447683387",
+    "location": {
+      "latitude": "42.447683387",
+      "longitude": "-74.212227354"
+    }
+  },
+  {
+    "_id": "row-j4xi.3qpi_c883",
+    "_uuid": "00000000-0000-0000-7457-84DA13405C3A",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-j4xi.3qpi_c883",
+    "name": "Butternut Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "county": "Otsego",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrbuternut.pdf"
+    },
+    "point_x": "-75.144791275",
+    "point_y": "42.670570475",
+    "location": {
+      "latitude": "42.670570475",
+      "longitude": "-75.144791275"
+    }
+  },
+  {
+    "_id": "row-i2be~sq38~7ycv",
+    "_uuid": "00000000-0000-0000-03F2-9EDD013AD935",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-i2be~sq38~7ycv",
+    "name": "Wiscoy Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31505.html"
+    },
+    "county": "Wyoming",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/wiscoy.pdf"
+    },
+    "point_x": "-78.17286482",
+    "point_y": "42.572203313",
+    "location": {
+      "latitude": "42.572203313",
+      "longitude": "-78.17286482"
+    }
+  },
+  {
+    "_id": "row-k9ux~rz2x.mb8v",
+    "_uuid": "00000000-0000-0000-05AD-6EF92E3C8E1B",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-k9ux~rz2x.mb8v",
+    "name": "Black River",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31470.html"
+    },
+    "county": "Oneida",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "point_x": "-75.249004417",
+    "point_y": "43.479243148",
+    "location": {
+      "latitude": "43.479243148",
+      "longitude": "-75.249004417"
+    }
+  },
+  {
+    "_id": "row-sfbe-rp6p.f96b",
+    "_uuid": "00000000-0000-0000-AC9F-E5D1C0F7EEED",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-sfbe-rp6p.f96b",
+    "name": "Susquehanna River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Sunfish",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31431.html"
+    },
+    "county": "Broome",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/42299.html"
+    },
+    "point_x": "-75.60037003",
+    "point_y": "42.193644482",
+    "location": {
+      "latitude": "42.193644482",
+      "longitude": "-75.60037003"
+    }
+  },
+  {
+    "_id": "row-2zd6_ggst-kfbz",
+    "_uuid": "00000000-0000-0000-4E35-E6EAFA0B4324",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-2zd6_ggst-kfbz",
+    "name": "Naples Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31417.html"
+    },
+    "county": "Ontario",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement - High Tor State Wildlife Management Area (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrnaplesck.pdf"
+    },
+    "point_x": "-77.403606702",
+    "point_y": "42.609479403",
+    "location": {
+      "latitude": "42.609479403",
+      "longitude": "-77.403606702"
+    }
+  },
+  {
+    "_id": "row-jthp~2akn_2m8w",
+    "_uuid": "00000000-0000-0000-AB55-AA59709163FA",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-jthp~2akn_2m8w",
+    "name": "Hudson River (Upper Hudson)",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Northern Pike",
+      "Chain Pickerel",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31479.html"
+    },
+    "county": "Rensselear",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Municipal",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23874.html"
+    },
+    "point_x": "-73.674228129",
+    "point_y": "42.784585314",
+    "location": {
+      "latitude": "42.784585314",
+      "longitude": "-73.674228129"
+    }
+  },
+  {
+    "_id": "row-pbeb.63hf_zpst",
+    "_uuid": "00000000-0000-0000-83AD-A4C279C94A5D",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-pbeb.63hf_zpst",
+    "name": "Butternut Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31471.html"
+    },
+    "county": "Onondaga",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/r7buttnutpfr.pdf"
+    },
+    "point_x": "-76.067661223",
+    "point_y": "42.852610114",
+    "location": {
+      "latitude": "42.852610114",
+      "longitude": "-76.067661223"
+    }
+  },
+  {
+    "_id": "row-dje7_72k3_aacy",
+    "_uuid": "00000000-0000-0000-67E2-9BB81FFC3EA5",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-dje7_72k3_aacy",
+    "name": "Great Chazy River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Muskellunge",
+      "Norhtern Pike",
+      "Chain Pickerel",
+      "Walleye",
+      "Carp"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31510.html"
+    },
+    "county": "Clinton",
+    "public_acc": ["Boat Launch"],
+    "access_own": "New York State Parks",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23904.html"
+    },
+    "point_x": "-73.386724349",
+    "point_y": "44.932212074",
+    "location": {
+      "latitude": "44.932212074",
+      "longitude": "-73.386724349"
+    }
+  },
+  {
+    "_id": "row-j7xc_63uv-q7y2",
+    "_uuid": "00000000-0000-0000-E3BA-A29881E1DC93",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-j7xc_63uv-q7y2",
+    "name": "Oneida River",
+    "fish_spec": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Crappie",
+      "Northern Pike",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "county": "Onondaga",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23881.html"
+    },
+    "point_x": "-76.266299646",
+    "point_y": "43.210378118",
+    "location": {
+      "latitude": "43.210378118",
+      "longitude": "-76.266299646"
+    }
+  },
+  {
+    "_id": "row-uack~9bpq~5sru",
+    "_uuid": "00000000-0000-0000-DEFA-EA226C3798D6",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-uack~9bpq~5sru",
+    "name": "Chenango River",
+    "fish_spec": ["Muskellunge", "Northern Pike", "Walleye", "Carp"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31436.html"
+    },
+    "county": "Chenango",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/63442.html"
+    },
+    "point_x": "-75.545790298",
+    "point_y": "42.472548816",
+    "location": {
+      "latitude": "42.472548816",
+      "longitude": "-75.545790298"
+    }
+  },
+  {
+    "_id": "row-rkjm_k7pg_zics",
+    "_uuid": "00000000-0000-0000-DE8E-2C0350F2F597",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-rkjm_k7pg_zics",
+    "name": "Mohawk River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Tiger Musky",
+      "Northern Pike",
+      "Walleye",
+      "Carp"
+    ],
+    "comments": "None",
+    "county": "Saratoga",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "New York State Parks",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23872.html"
+    },
+    "point_x": "-73.677482067",
+    "point_y": "42.785595276",
+    "location": {
+      "latitude": "42.785595276",
+      "longitude": "-73.677482067"
+    }
+  },
+  {
+    "_id": "row-2gjn.4epp.cyw4",
+    "_uuid": "00000000-0000-0000-AF5C-62667042CBAD",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-2gjn.4epp.cyw4",
+    "name": "North Branch Salmon River",
+    "fish_spec": ["Brook Trout"],
+    "comments": "None",
+    "county": "Oswego",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/r7nbrsalrpfr.pdf"
+    },
+    "point_x": "-75.882151157",
+    "point_y": "43.612709325",
+    "location": {
+      "latitude": "43.612709325",
+      "longitude": "-75.882151157"
+    }
+  },
+  {
+    "_id": "row-tjqp.p9wz.aszd",
+    "_uuid": "00000000-0000-0000-64F6-DE61C3AC572F",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-tjqp.p9wz.aszd",
+    "name": "Catskill Creek",
+    "fish_spec": ["Brown Trout"],
+    "comments": "None",
+    "county": "Greene",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrcatskillc.pdf"
+    },
+    "point_x": "-74.132866461",
+    "point_y": "42.402756126",
+    "location": {
+      "latitude": "42.402756126",
+      "longitude": "-74.132866461"
+    }
+  },
+  {
+    "_id": "row-g2wc-whxg-wmmg",
+    "_uuid": "00000000-0000-0000-B221-4FF64CF630CF",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-g2wc-whxg-wmmg",
+    "name": "Niagara River (Lower)",
+    "fish_spec": [
+      "Brown Trout",
+      "Steelhead",
+      "Chinook Salmon",
+      "Coho Salmon",
+      "Lake Trout",
+      "Smallmouth Bass",
+      "Yellow Perch",
+      "Muskellunge",
+      "Walleye",
+      "Carp"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31425.html"
+    },
+    "county": "Niagara",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Fort Niagara State Park",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/67913.html"
+    },
+    "point_x": "-79.059249369",
+    "point_y": "43.26100669",
+    "location": {
+      "latitude": "43.26100669",
+      "longitude": "-79.059249369"
+    }
+  },
+  {
+    "_id": "row-6abz~2qzc-jwhn",
+    "_uuid": "00000000-0000-0000-AA26-B6A68F7427CE",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-6abz~2qzc-jwhn",
+    "name": "East Branch Owego Creek",
+    "fish_spec": ["Brook Trout - Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31498.html"
+    },
+    "county": "Tioga",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/r7ebrowegpfr.pdf"
+    },
+    "point_x": "-76.1953179",
+    "point_y": "42.373487602",
+    "location": {
+      "latitude": "42.373487602",
+      "longitude": "-76.1953179"
+    }
+  },
+  {
+    "_id": "row-pxja.qydr~srt9",
+    "_uuid": "00000000-0000-0000-A0F2-F57A60C196A8",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-pxja.qydr~srt9",
+    "name": "Mohawk River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Tiger Musky",
+      "Northern Pike",
+      "Walleye",
+      "Carp"
+    ],
+    "comments": "None",
+    "county": "Montgomery",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Canal Corporation",
+    "point_x": "-74.577729666",
+    "point_y": "42.909569765",
+    "location": {
+      "latitude": "42.909569765",
+      "longitude": "-74.577729666"
+    }
+  },
+  {
+    "_id": "row-4i33_c2wj~iddn",
+    "_uuid": "00000000-0000-0000-D419-33D3B4EF2353",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-4i33_c2wj~iddn",
+    "name": "West Canada Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31453.html"
+    },
+    "county": "Herkimer",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/9238.html"
+    },
+    "point_x": "-74.996086087",
+    "point_y": "43.16332365",
+    "location": {
+      "latitude": "43.16332365",
+      "longitude": "-74.996086087"
+    }
+  },
+  {
+    "_id": "row-xhti_9cbn_4x4r",
+    "_uuid": "00000000-0000-0000-58B5-D654791C78BB",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-xhti_9cbn_4x4r",
+    "name": "Sandy Creek",
+    "fish_spec": ["Brown Trout", "Steelhead", "Coho Salmon", "Chinook Salmon"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31420.html"
+    },
+    "county": "Jefferson",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement - Lakeview Wildlife Management Area (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrsandyckr6.pdf"
+    },
+    "point_x": "-76.171381533",
+    "point_y": "43.750951839",
+    "location": {
+      "latitude": "43.750951839",
+      "longitude": "-76.171381533"
+    }
+  },
+  {
+    "_id": "row-waxh_xuvt.625v",
+    "_uuid": "00000000-0000-0000-84BD-9FB69D1FFD33",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-waxh_xuvt.625v",
+    "name": "Willowemoc Creek",
+    "fish_spec": ["Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31496.html"
+    },
+    "county": "Sullivan",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrwillocklb.pdf"
+    },
+    "point_x": "-74.875015615",
+    "point_y": "41.925896961",
+    "location": {
+      "latitude": "41.925896961",
+      "longitude": "-74.875015615"
+    }
+  },
+  {
+    "_id": "row-dwc7_uzdu_2q6p",
+    "_uuid": "00000000-0000-0000-D7B6-6E11F9D5B660",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-dwc7_uzdu_2q6p",
+    "name": "Carmans River",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "Tidal",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31495.html"
+    },
+    "county": "Suffolk",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23865.html"
+    },
+    "point_x": "-72.883488915",
+    "point_y": "40.801573033",
+    "location": {
+      "latitude": "40.801573033",
+      "longitude": "-72.883488915"
+    }
+  },
+  {
+    "_id": "row-hp75-s4nj_zbix",
+    "_uuid": "00000000-0000-0000-39BC-84CA637F0CBF",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-hp75-s4nj_zbix",
+    "name": "Carmans River",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "Suffolk county permit required (631-854-4949).",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31495.html"
+    },
+    "county": "Suffolk",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Southhaven County Park",
+    "point_x": "-72.887817171",
+    "point_y": "40.809070751",
+    "location": {
+      "latitude": "40.809070751",
+      "longitude": "-72.887817171"
+    }
+  },
+  {
+    "_id": "row-y37v-scny.k7n4",
+    "_uuid": "00000000-0000-0000-7418-E7D39A0C7BD6",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-y37v-scny.k7n4",
+    "name": "West Canada Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31453.html"
+    },
+    "county": "Herkimer",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/9238.html"
+    },
+    "point_x": "-74.980096863",
+    "point_y": "43.146064976",
+    "location": {
+      "latitude": "43.146064976",
+      "longitude": "-74.980096863"
+    }
+  },
+  {
+    "_id": "row-6rr6-2h7e-txjj",
+    "_uuid": "00000000-0000-0000-483B-E56259451835",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-6rr6-2h7e-txjj",
+    "name": "North Branch Saranac River",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31437.html"
+    },
+    "county": "Clinton",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrnbsaranac.pdf"
+    },
+    "point_x": "-73.918238523",
+    "point_y": "44.578672605",
+    "location": {
+      "latitude": "44.578672605",
+      "longitude": "-73.918238523"
+    }
+  },
+  {
+    "_id": "row-3cji_muhc-mm3s",
+    "_uuid": "00000000-0000-0000-A830-1B560AEB73FF",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-3cji_muhc-mm3s",
+    "name": "East Branch Delaware River (Lower)",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31440.html"
+    },
+    "county": "Delaware",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement - Tomannex State Forest (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfreastbranch.pdf"
+    },
+    "point_x": "-75.087162917",
+    "point_y": "42.017273442",
+    "location": {
+      "latitude": "42.017273442",
+      "longitude": "-75.087162917"
+    }
+  },
+  {
+    "_id": "row-mbs9_jrbd~ngdr",
+    "_uuid": "00000000-0000-0000-4453-067F3A045776",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-mbs9_jrbd~ngdr",
+    "name": "Schoharie Creek (Lower)",
+    "fish_spec": ["Smallmouth Bass", "Walleye", "Carp"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31490.html"
+    },
+    "county": "Schoharie",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23870.html"
+    },
+    "point_x": "-74.333227674",
+    "point_y": "42.73979526",
+    "location": {
+      "latitude": "42.73979526",
+      "longitude": "-74.333227674"
+    }
+  },
+  {
+    "_id": "row-z6am.t8yk.9rrp",
+    "_uuid": "00000000-0000-0000-093A-B1076C3023D7",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-z6am.t8yk.9rrp",
+    "name": "North Branch Great Chazy River",
+    "fish_spec": ["Brown Trout", "Rainbow Trout", "Smallmouth Bass"],
+    "comments": "None",
+    "county": "Clinton",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrnbchazy.pdf"
+    },
+    "point_x": "-73.722896528",
+    "point_y": "44.924074139",
+    "location": {
+      "latitude": "44.924074139",
+      "longitude": "-73.722896528"
+    }
+  },
+  {
+    "_id": "row-bua2.2f42~4xse",
+    "_uuid": "00000000-0000-0000-7481-1FDDADEF13C4",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-bua2.2f42~4xse",
+    "name": "Tonawanda Creek (Barge Canal)",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Northern Pike",
+      "Walleye",
+      "Carp"
+    ],
+    "comments": "None",
+    "county": "Erie",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Amherst Veterans Memorial Park (Municipal)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23883.html"
+    },
+    "point_x": "-78.802579298",
+    "point_y": "43.065019587",
+    "location": {
+      "latitude": "43.065019587",
+      "longitude": "-78.802579298"
+    }
+  },
+  {
+    "_id": "row-gpbt_thwm~hee6",
+    "_uuid": "00000000-0000-0000-1EBA-3BC417146F31",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-gpbt_thwm~hee6",
+    "name": "Massapequa Creek",
+    "fish_spec": ["Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31466.html"
+    },
+    "county": "Nassau",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Massapequa County Preserve (County Park)",
+    "point_x": "-73.459834106",
+    "point_y": "40.682980209",
+    "location": {
+      "latitude": "40.682980209",
+      "longitude": "-73.459834106"
+    }
+  },
+  {
+    "_id": "row-qrn9-mekx.8im6",
+    "_uuid": "00000000-0000-0000-8195-08BFE7DDE28E",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-qrn9-mekx.8im6",
+    "name": "St Lawrence River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Muskellunge",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31423.html"
+    },
+    "county": "St. Lawrence",
+    "public_acc": ["Boat Launch"],
+    "access_own": "Municipal",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/29956.html"
+    },
+    "point_x": "-74.924899209",
+    "point_y": "44.955925486",
+    "location": {
+      "latitude": "44.955925486",
+      "longitude": "-74.924899209"
+    }
+  },
+  {
+    "_id": "row-fcqh-3uer~r76e",
+    "_uuid": "00000000-0000-0000-9093-342A8BB0D56C",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-fcqh-3uer~r76e",
+    "name": "Catskill Creek",
+    "fish_spec": ["Brown Trout"],
+    "comments": "None",
+    "county": "Schoharie",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrcatskillc.pdf"
+    },
+    "point_x": "-74.247409065",
+    "point_y": "42.472374393",
+    "location": {
+      "latitude": "42.472374393",
+      "longitude": "-74.247409065"
+    }
+  },
+  {
+    "_id": "row-nw3f.fgwc.2akz",
+    "_uuid": "00000000-0000-0000-373F-BD2DB92493CC",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-nw3f.fgwc.2akz",
+    "name": "East Branch Fish Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Atlantic Salmon"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31456.html"
+    },
+    "county": "Lewis",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrebfishcreek.pdf"
+    },
+    "point_x": "-75.545281112",
+    "point_y": "43.522413999",
+    "location": {
+      "latitude": "43.522413999",
+      "longitude": "-75.545281112"
+    }
+  },
+  {
+    "_id": "row-tzqm_7wfu.w7up",
+    "_uuid": "00000000-0000-0000-8C67-6C127A9949A3",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-tzqm_7wfu.w7up",
+    "name": "Spruce Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "county": "Herkimer",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrecanadack.pdf"
+    },
+    "point_x": "-74.775015894",
+    "point_y": "43.122903578",
+    "location": {
+      "latitude": "43.122903578",
+      "longitude": "-74.775015894"
+    }
+  },
+  {
+    "_id": "row-23uf~473d-s2ss",
+    "_uuid": "00000000-0000-0000-5D59-D7E0FA447DAD",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-23uf~473d-s2ss",
+    "name": "Genesee River (Upper)",
+    "fish_spec": ["Brown Trout", "Rainbow Trout", "Smallmouth Bass"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31494.html"
+    },
+    "county": "Allegany",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/geneseeriver.pdf"
+    },
+    "point_x": "-77.946074243",
+    "point_y": "42.116138081",
+    "location": {
+      "latitude": "42.116138081",
+      "longitude": "-77.946074243"
+    }
+  },
+  {
+    "_id": "row-t6pf~q46x~jjmy",
+    "_uuid": "00000000-0000-0000-4536-70A373FA5EA2",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-t6pf~q46x~jjmy",
+    "name": "Indian River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31454.html"
+    },
+    "county": "Jefferson",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Indian River State Wildlife Management Area (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23890.html"
+    },
+    "point_x": "-75.760508085",
+    "point_y": "44.265146835",
+    "location": {
+      "latitude": "44.265146835",
+      "longitude": "-75.760508085"
+    }
+  },
+  {
+    "_id": "row-j849-nhs9-7m73",
+    "_uuid": "00000000-0000-0000-64D6-5D67BB711A2C",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-j849-nhs9-7m73",
+    "name": "Hudson River (Lower)",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Tiger Musky",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish",
+      "Striped bass"
+    ],
+    "comments": "Anglers fishing for migratory marine species must enroll in the recreational marine fishing registry (518-402-8843).",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31438.html"
+    },
+    "county": "Columbia",
+    "public_acc": ["Boat Launch"],
+    "access_own": "Hudson State Boat Launch (New York State Parks)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23902.html"
+    },
+    "point_x": "-73.797604436",
+    "point_y": "42.25639975",
+    "location": {
+      "latitude": "42.25639975",
+      "longitude": "-73.797604436"
+    }
+  },
+  {
+    "_id": "row-fyhe.7mds-tw9u",
+    "_uuid": "00000000-0000-0000-79AE-59EB5399E9E2",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-fyhe.7mds-tw9u",
+    "name": "Cayuga Inlet",
+    "fish_spec": ["Brown Trout", "Rainbow Trout", "Atlantic Salmon"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31417.html"
+    },
+    "county": "Tompkins",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/72779.html"
+    },
+    "point_x": "-76.554022279",
+    "point_y": "42.368737364",
+    "location": {
+      "latitude": "42.368737364",
+      "longitude": "-76.554022279"
+    }
+  },
+  {
+    "_id": "row-txi2_wc84-zcpn",
+    "_uuid": "00000000-0000-0000-CCEA-55CDD0C8C624",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-txi2_wc84-zcpn",
+    "name": "South Sandy Creek",
+    "fish_spec": [
+      "Brown Trout",
+      "Steelhead",
+      "Coho Salmon",
+      "Chinook Salmon",
+      "Smallmouth Bass"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31420.html"
+    },
+    "county": "Jefferson",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Public Easement - Lakeview Wildlife Management Area (DEC) - DEC Boat Launch",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrssandyck.pdf"
+    },
+    "point_x": "-76.182500037",
+    "point_y": "43.709909916",
+    "location": {
+      "latitude": "43.709909916",
+      "longitude": "-76.182500037"
+    }
+  },
+  {
+    "_id": "row-qtpg_9s2e.mydt",
+    "_uuid": "00000000-0000-0000-74D6-7CEA48D82C66",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-qtpg_9s2e.mydt",
+    "name": "West Branch Delaware River (Lower)",
+    "fish_spec": ["Brown Trout", "Rainbow Trout", "Smallmouth Bass", "Walleye"],
+    "comments": "Anglers fishing for migratory marine species must enroll in the recreational marine fishing registry (518-402-8843).",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31431.html"
+    },
+    "county": "Broome",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrwestbranch.pdf"
+    },
+    "point_x": "-75.423109696",
+    "point_y": "42.057749967",
+    "location": {
+      "latitude": "42.057749967",
+      "longitude": "-75.423109696"
+    }
+  },
+  {
+    "_id": "row-2sik~mimj.xa4i",
+    "_uuid": "00000000-0000-0000-7338-13F66D2C541B",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-2sik~mimj.xa4i",
+    "name": "Clear Creek (Arcade)",
+    "fish_spec": ["Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31432.html"
+    },
+    "county": "Cattaraugus",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/clearcreekarcade.pdf"
+    },
+    "point_x": "-78.36634128",
+    "point_y": "42.487652105",
+    "location": {
+      "latitude": "42.487652105",
+      "longitude": "-78.36634128"
+    }
+  },
+  {
+    "_id": "row-x9v3~wan4~renc",
+    "_uuid": "00000000-0000-0000-3393-64C621F75F80",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-x9v3~wan4~renc",
+    "name": "Skinner Creek",
+    "fish_spec": ["Steelhead", "Chinook Salmon"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31420.html"
+    },
+    "county": "Jefferson",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrskinnerck.pdf"
+    },
+    "point_x": "-76.102240571",
+    "point_y": "43.696007568",
+    "location": {
+      "latitude": "43.696007568",
+      "longitude": "-76.102240571"
+    }
+  },
+  {
+    "_id": "row-mzne~evsx-su4m",
+    "_uuid": "00000000-0000-0000-E5F8-F1CDAF33B7DE",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-mzne~evsx-su4m",
+    "name": "Susquehanna River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Sunfish",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "county": "Otsego",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/42299.html"
+    },
+    "point_x": "-75.200778251",
+    "point_y": "42.37722182",
+    "location": {
+      "latitude": "42.37722182",
+      "longitude": "-75.200778251"
+    }
+  },
+  {
+    "_id": "row-h685-2gkq~sz4n",
+    "_uuid": "00000000-0000-0000-B5D5-5844219B6F06",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-h685-2gkq~sz4n",
+    "name": "South Sandy Creek",
+    "fish_spec": ["Brown Trout", "Steelhead", "Coho Salmon", "Chinook Salmon"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31420.html"
+    },
+    "county": "Jefferson",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrssandyck.pdf"
+    },
+    "point_x": "-76.162730885",
+    "point_y": "43.712542336",
+    "location": {
+      "latitude": "43.712542336",
+      "longitude": "-76.162730885"
+    }
+  },
+  {
+    "_id": "row-6myj-y72d-fexw",
+    "_uuid": "00000000-0000-0000-4367-DEEBDA789EB4",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-6myj-y72d-fexw",
+    "name": "Wiscoy Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31505.html"
+    },
+    "county": "Wyoming",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/wiscoy.pdf"
+    },
+    "point_x": "-78.117776875",
+    "point_y": "42.538612633",
+    "location": {
+      "latitude": "42.538612633",
+      "longitude": "-78.117776875"
+    }
+  },
+  {
+    "_id": "row-snc3.eraj.phjh",
+    "_uuid": "00000000-0000-0000-ABD4-DDB50784BB37",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-snc3.eraj.phjh",
+    "name": "Schoharie Creek (Lower)",
+    "fish_spec": ["Smallmouth Bass", "Walleye", "Carp"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31464.html"
+    },
+    "county": "Montgomery",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23885.html"
+    },
+    "point_x": "-74.290222212",
+    "point_y": "42.939547926",
+    "location": {
+      "latitude": "42.939547926",
+      "longitude": "-74.290222212"
+    }
+  },
+  {
+    "_id": "row-ryiq~d5tg-vs3e",
+    "_uuid": "00000000-0000-0000-D672-FD9833CB213E",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-ryiq~d5tg-vs3e",
+    "name": "Black River",
+    "fish_spec": ["Brown Trout", "Rainbow Trout", "Walleye"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31456.html"
+    },
+    "county": "Lewis",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Public Easement - DEC Boat Launch",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23889.html"
+    },
+    "point_x": "-75.446703206",
+    "point_y": "43.774773516",
+    "location": {
+      "latitude": "43.774773516",
+      "longitude": "-75.446703206"
+    }
+  },
+  {
+    "_id": "row-8qhs-4x72~pi7i",
+    "_uuid": "00000000-0000-0000-E66E-B69EB0EB7503",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-8qhs-4x72~pi7i",
+    "name": "West Branch Delaware River (Upper)",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "NYCDEP permit required (1-800-574-LAND).",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31440.html"
+    },
+    "county": "Delaware",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrwestbranch.pdf"
+    },
+    "point_x": "-74.898604961",
+    "point_y": "42.301172072",
+    "location": {
+      "latitude": "42.301172072",
+      "longitude": "-74.898604961"
+    }
+  },
+  {
+    "_id": "row-9sd9-wtcf_vxwm",
+    "_uuid": "00000000-0000-0000-196A-901A09B05AAF",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-9sd9-wtcf_vxwm",
+    "name": "Kinderhook Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31438.html"
+    },
+    "county": "Columbia",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrkinderhook.pdf"
+    },
+    "point_x": "-73.479753005",
+    "point_y": "42.486928585",
+    "location": {
+      "latitude": "42.486928585",
+      "longitude": "-73.479753005"
+    }
+  },
+  {
+    "_id": "row-cdc7-vw7q~bhfa",
+    "_uuid": "00000000-0000-0000-9270-8D9270E2E345",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-cdc7-vw7q~bhfa",
+    "name": "West Kill",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "county": "Greene",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrwestkill.pdf"
+    },
+    "point_x": "-74.341047462",
+    "point_y": "42.198013111",
+    "location": {
+      "latitude": "42.198013111",
+      "longitude": "-74.341047462"
+    }
+  },
+  {
+    "_id": "row-ze7c.29dk.8z4t",
+    "_uuid": "00000000-0000-0000-D35E-35683F6B70EA",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-ze7c.29dk.8z4t",
+    "name": "Neversink River",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31496.html"
+    },
+    "county": "Sullivan",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrneversink.pdf"
+    },
+    "point_x": "-74.613046049",
+    "point_y": "41.716763116",
+    "location": {
+      "latitude": "41.716763116",
+      "longitude": "-74.613046049"
+    }
+  },
+  {
+    "_id": "row-kd4y~ieq6.5bad",
+    "_uuid": "00000000-0000-0000-D3FC-05E23D13EA57",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-kd4y~ieq6.5bad",
+    "name": "Butternut Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "county": "Otsego",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrbuternut.pdf"
+    },
+    "point_x": "-75.1538062",
+    "point_y": "42.650821229",
+    "location": {
+      "latitude": "42.650821229",
+      "longitude": "-75.1538062"
+    }
+  },
+  {
+    "_id": "row-qrx2.semy~fxm2",
+    "_uuid": "00000000-0000-0000-99EA-A0F7AEBD5C57",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-qrx2.semy~fxm2",
+    "name": "Ten Mile Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31441.html"
+    },
+    "county": "Dutchess",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement - Wassaic State Multiple Use Area (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrtenmilewassaic.pdf"
+    },
+    "point_x": "-73.565375481",
+    "point_y": "41.771024096",
+    "location": {
+      "latitude": "41.771024096",
+      "longitude": "-73.565375481"
+    }
+  },
+  {
+    "_id": "row-h36a.rnfd_k6j6",
+    "_uuid": "00000000-0000-0000-7A22-C20B0DF82CD4",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-h36a.rnfd_k6j6",
+    "name": "Susquehanna River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Sunfish",
+      "Muskellunge",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "county": "Otsego",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/42299.html"
+    },
+    "point_x": "-74.942416339",
+    "point_y": "42.556642172",
+    "location": {
+      "latitude": "42.556642172",
+      "longitude": "-74.942416339"
+    }
+  },
+  {
+    "_id": "row-e9aw_gkn9-c6rz",
+    "_uuid": "00000000-0000-0000-DAF9-D4EC7A67D100",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-e9aw_gkn9-c6rz",
+    "name": "Batavia Kill",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "county": "Greene",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrbataviak.pdf"
+    },
+    "point_x": "-74.305872393",
+    "point_y": "42.293045276",
+    "location": {
+      "latitude": "42.293045276",
+      "longitude": "-74.305872393"
+    }
+  },
+  {
+    "_id": "row-jkc9_5ifb-ajmz",
+    "_uuid": "00000000-0000-0000-423E-84D7F154BE5F",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-jkc9_5ifb-ajmz",
+    "name": "Mohawk River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Tiger Musky",
+      "Northern Pike",
+      "Walleye",
+      "Carp"
+    ],
+    "comments": "None",
+    "county": "Herkimer",
+    "public_acc": ["Boat Launch"],
+    "access_own": "DEC",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23891.html"
+    },
+    "point_x": "-74.882157024",
+    "point_y": "43.025548857",
+    "location": {
+      "latitude": "43.025548857",
+      "longitude": "-74.882157024"
+    }
+  },
+  {
+    "_id": "row-y3pj~cihw.wiwz",
+    "_uuid": "00000000-0000-0000-9254-F00BA0DE7C67",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-y3pj~cihw.wiwz",
+    "name": "Batavia Kill",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "county": "Greene",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrbataviak.pdf"
+    },
+    "point_x": "-74.417309899",
+    "point_y": "42.305167318",
+    "location": {
+      "latitude": "42.305167318",
+      "longitude": "-74.417309899"
+    }
+  },
+  {
+    "_id": "row-73rc_43kw_gm7v",
+    "_uuid": "00000000-0000-0000-F57E-DB22498175A4",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-73rc_43kw_gm7v",
+    "name": "Oswegatchie River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "Camping available at state park.",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31493.html"
+    },
+    "county": "St. Lawrence",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Eel Weir State park",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23866.html"
+    },
+    "point_x": "-75.474423958",
+    "point_y": "44.630141028",
+    "location": {
+      "latitude": "44.630141028",
+      "longitude": "-75.474423958"
+    }
+  },
+  {
+    "_id": "row-u6kx.spst_hk4e",
+    "_uuid": "00000000-0000-0000-830C-EADEBE4C1DB4",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-u6kx.spst_hk4e",
+    "name": "Salmon Creek",
+    "fish_spec": [
+      "Atlantic Salmon",
+      "Brown Trout",
+      "Rainbow Trout",
+      "Smallmouth Bass"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31417.html"
+    },
+    "county": "Tompkins",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/r7salcrekpfr.pdf"
+    },
+    "point_x": "-76.546604236",
+    "point_y": "42.539532914",
+    "location": {
+      "latitude": "42.539532914",
+      "longitude": "-76.546604236"
+    }
+  },
+  {
+    "_id": "row-ahu9~emx4~pqta",
+    "_uuid": "00000000-0000-0000-89FE-2B1AB532F6DB",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-ahu9~emx4~pqta",
+    "name": "Wallkill River",
+    "fish_spec": ["Smallmouth Bass", "Walleye", "Carp"],
+    "comments": "Electric Motors Only.",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31500.html"
+    },
+    "county": "Ulster",
+    "public_acc": ["Boat Launch"],
+    "access_own": "Municipal",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/58866.html"
+    },
+    "point_x": "-74.093382138",
+    "point_y": "41.743720878",
+    "location": {
+      "latitude": "41.743720878",
+      "longitude": "-74.093382138"
+    }
+  },
+  {
+    "_id": "row-zaqg.ygjk-z7xh",
+    "_uuid": "00000000-0000-0000-5F76-86B6D4E1952A",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-zaqg.ygjk-z7xh",
+    "name": "Kayaderosseras Creek",
+    "fish_spec": ["Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31482.html"
+    },
+    "county": "Saratoga",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrkayadeross.pdf"
+    },
+    "point_x": "-73.877687077",
+    "point_y": "43.138010643",
+    "location": {
+      "latitude": "43.138010643",
+      "longitude": "-73.877687077"
+    }
+  },
+  {
+    "_id": "row-v4b6~fjn6.3pcv",
+    "_uuid": "00000000-0000-0000-8A4D-A1F9482EA209",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-v4b6~fjn6.3pcv",
+    "name": "St Lawrence River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Muskellunge",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "Campground - marina and boat rental available at state park.",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31423.html"
+    },
+    "county": "Jefferson",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Cedar Point State Park",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/29956.html"
+    },
+    "point_x": "-76.199029291",
+    "point_y": "44.204296007",
+    "location": {
+      "latitude": "44.204296007",
+      "longitude": "-76.199029291"
+    }
+  },
+  {
+    "_id": "row-n4cj-6iin~h55w",
+    "_uuid": "00000000-0000-0000-6971-6BF13E51D0C9",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-n4cj-6iin~h55w",
+    "name": "Schoharie Creek (Upper)",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "county": "Greene",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrschoharie.pdf"
+    },
+    "point_x": "-74.284455128",
+    "point_y": "42.227957137",
+    "location": {
+      "latitude": "42.227957137",
+      "longitude": "-74.284455128"
+    }
+  },
+  {
+    "_id": "row-xu36-5f5q-tmrw",
+    "_uuid": "00000000-0000-0000-7119-88DAD6FD9A50",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-xu36-5f5q-tmrw",
+    "name": "Neversink River",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31496.html"
+    },
+    "county": "Sullivan",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrneversink.pdf"
+    },
+    "point_x": "-74.607077598",
+    "point_y": "41.776282842",
+    "location": {
+      "latitude": "41.776282842",
+      "longitude": "-74.607077598"
+    }
+  },
+  {
+    "_id": "row-7973.8h8z~syft",
+    "_uuid": "00000000-0000-0000-1F4C-108A0A1CC536",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-7973.8h8z~syft",
+    "name": "Canadaway Creek",
+    "fish_spec": ["Brown Trout", "Steelhead", "Smallmouth Bass"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31420.html"
+    },
+    "county": "Chautauqua",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/canadawaycreek.pdf"
+    },
+    "point_x": "-79.364645774",
+    "point_y": "42.475495688",
+    "location": {
+      "latitude": "42.475495688",
+      "longitude": "-79.364645774"
+    }
+  },
+  {
+    "_id": "row-5ywj~fixx~hbxn",
+    "_uuid": "00000000-0000-0000-41DA-B131634CC2A9",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-5ywj~fixx~hbxn",
+    "name": "Grout Brook",
+    "fish_spec": ["Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31439.html"
+    },
+    "county": "Cortland",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/r7groutbrpfr.pdf"
+    },
+    "point_x": "-76.26999981",
+    "point_y": "42.759856186",
+    "location": {
+      "latitude": "42.759856186",
+      "longitude": "-76.26999981"
+    }
+  },
+  {
+    "_id": "row-ex39-wfar_8v2g",
+    "_uuid": "00000000-0000-0000-5FF5-06ABF509A99C",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-ex39-wfar_8v2g",
+    "name": "Neversink River",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31496.html"
+    },
+    "county": "Sullivan",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrneversink.pdf"
+    },
+    "point_x": "-74.609448532",
+    "point_y": "41.781634451",
+    "location": {
+      "latitude": "41.781634451",
+      "longitude": "-74.609448532"
+    }
+  },
+  {
+    "_id": "row-bz7b_uvsn.mhne",
+    "_uuid": "00000000-0000-0000-4BFC-F72BCB59B2A1",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-bz7b_uvsn.mhne",
+    "name": "Genesee River (Upper)",
+    "fish_spec": ["Brown Trout", "Rainbow Trout", "Smallmouth Bass"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31494.html"
+    },
+    "county": "Allegany",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/geneseeriver.pdf"
+    },
+    "point_x": "-77.985309157",
+    "point_y": "42.171235454",
+    "location": {
+      "latitude": "42.171235454",
+      "longitude": "-77.985309157"
+    }
+  },
+  {
+    "_id": "row-peg4.d8sf-w3th",
+    "_uuid": "00000000-0000-0000-BB45-B7DD271098A2",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-peg4.d8sf-w3th",
+    "name": "Otselic River",
+    "fish_spec": ["Brown Trout", "Walleye"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31436.html"
+    },
+    "county": "Chenango",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/r7otselripfr.pdf"
+    },
+    "point_x": "-75.864974593",
+    "point_y": "42.582590493",
+    "location": {
+      "latitude": "42.582590493",
+      "longitude": "-75.864974593"
+    }
+  },
+  {
+    "_id": "row-5enb.t69i-d25b",
+    "_uuid": "00000000-0000-0000-6420-29BED448BDC8",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-5enb.t69i-d25b",
+    "name": "Hudson River (Upper Hudson)",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Northern Pike",
+      "Chain Pickerel",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "county": "Warren",
+    "public_acc": ["Shore Fishing", "Boat Launch"],
+    "access_own": "Lake George Wild Forest (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/lands/28291.html"
+    },
+    "point_x": "-73.852988038",
+    "point_y": "43.325418379",
+    "location": {
+      "latitude": "43.325418379",
+      "longitude": "-73.852988038"
+    }
+  },
+  {
+    "_id": "row-2dfm_ixug.gpum",
+    "_uuid": "00000000-0000-0000-E20C-8F1372C4616C",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-2dfm_ixug.gpum",
+    "name": "Kayaderosseras Creek",
+    "fish_spec": ["Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31482.html"
+    },
+    "county": "Saratoga",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrkayadeross.pdf"
+    },
+    "point_x": "-73.925734366",
+    "point_y": "43.066369738",
+    "location": {
+      "latitude": "43.066369738",
+      "longitude": "-73.925734366"
+    }
+  },
+  {
+    "_id": "row-vq9r~r6za_hfcp",
+    "_uuid": "00000000-0000-0000-ABF3-C1430D0EEFBE",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-vq9r~r6za_hfcp",
+    "name": "West Branch Owego Creek",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31498.html"
+    },
+    "county": "Tompkins",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement - Potato Hill State Forest (DEC)",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/71802.html"
+    },
+    "point_x": "-76.244183074",
+    "point_y": "42.342364928",
+    "location": {
+      "latitude": "42.342364928",
+      "longitude": "-76.244183074"
+    }
+  },
+  {
+    "_id": "row-pigh~xk26.v3df",
+    "_uuid": "00000000-0000-0000-A475-1A3D93C0E2B3",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-pigh~xk26.v3df",
+    "name": "Hudson River (Lower)",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Tiger Musky",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish",
+      "Striped bass"
+    ],
+    "comments": "Anglers fishing for migratory marine species must enroll in the recreational marine fishing registry (518-402-8843).",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31450.html"
+    },
+    "county": "Greene",
+    "public_acc": ["Boat Launch"],
+    "access_own": "Athens State Boat launch",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23902.html"
+    },
+    "point_x": "-73.801813315",
+    "point_y": "42.272658397",
+    "location": {
+      "latitude": "42.272658397",
+      "longitude": "-73.801813315"
+    }
+  },
+  {
+    "_id": "row-dx9u~b6ju~2hu6",
+    "_uuid": "00000000-0000-0000-EBF4-DEB808143735",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-dx9u~b6ju~2hu6",
+    "name": "North Branch Saranac River",
+    "fish_spec": ["Brook Trout", "Brown Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31437.html"
+    },
+    "county": "Clinton",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfrnbsaranac.pdf"
+    },
+    "point_x": "-73.875238453",
+    "point_y": "44.592691113",
+    "location": {
+      "latitude": "44.592691113",
+      "longitude": "-73.875238453"
+    }
+  },
+  {
+    "_id": "row-3zhc~sqna~ftmd",
+    "_uuid": "00000000-0000-0000-4C87-5FF859A37739",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-3zhc~sqna~ftmd",
+    "name": "East Branch Delaware River (Lower)",
+    "fish_spec": ["Brook Trout", "Brown Trout", "Rainbow Trout"],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31440.html"
+    },
+    "county": "Delaware",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "Public Easement",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/pfreastbranch.pdf"
+    },
+    "point_x": "-75.058921993",
+    "point_y": "42.034387183",
+    "location": {
+      "latitude": "42.034387183",
+      "longitude": "-75.058921993"
+    }
+  },
+  {
+    "_id": "row-9btp-zb5v_4dce",
+    "_uuid": "00000000-0000-0000-C717-9F486EA07CBC",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-9btp-zb5v_4dce",
+    "name": "Cattaraugus Creek (Lower)",
+    "fish_spec": [
+      "Brown Trout",
+      "Steelhead",
+      "Smallmouth Bass",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31420.html"
+    },
+    "county": "Erie",
+    "public_acc": ["Shore Fishing"],
+    "access_own": "County Park",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/docs/fish_marine_pdf/cattcreeksteelhead.pdf"
+    },
+    "point_x": "-78.700131638",
+    "point_y": "42.483415317",
+    "location": {
+      "latitude": "42.483415317",
+      "longitude": "-78.700131638"
+    }
+  },
+  {
+    "_id": "row-kmiz-dv36-35pe",
+    "_uuid": "00000000-0000-0000-87EF-AB9E04A03B78",
+    "_position": "0",
+    "_address": "https://data.ny.gov/resource/fishinglocations/row-kmiz-dv36-35pe",
+    "name": "Chaumont River",
+    "fish_spec": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Sunfish",
+      "Yellow Perch",
+      "Crappie",
+      "Northern Pike",
+      "Walleye",
+      "Carp",
+      "Channel Catfish"
+    ],
+    "comments": "None",
+    "spec_regs": {
+      "url": "http://www.dec.ny.gov/outdoor/31423.html"
+    },
+    "county": "Jefferson",
+    "public_acc": ["Boat Launch"],
+    "access_own": "New York State Parks",
+    "site_wl": {
+      "url": "http://www.dec.ny.gov/outdoor/23890.html"
+    },
+    "point_x": "-76.148933498",
+    "point_y": "44.068415416",
+    "location": {
+      "latitude": "44.068415416",
+      "longitude": "-76.148933498"
+    }
+  }
+]
