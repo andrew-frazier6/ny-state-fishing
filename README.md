@@ -1,11 +1,10 @@
 ## NY-STATE-FISHING 
 
-* Take a look at the great spots available https://andrew-frazier6.github.io/ny-state-fishing/
-
+* Becuase I took it a step further and built this with a map, in order to see the API you must run <npm run start> in the terminal. The backend is deployed already so once run, everything will be displayed. 
 
 ## ABOUT
 
-* The site is a map of all the fishing spot in NY state. It is built with React.js, Mongo and Mongoose. This is a full stack development with the backend being called from heroku.
+* The site is a map of all the fishing spot in NY state. It is built with React.js, Mongo and Mongoose. You have the ability to zoom in, zoom out and drag to other areas. 
 
 ## VISUAL CHOICES
 
