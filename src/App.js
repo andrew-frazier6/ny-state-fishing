@@ -2,10 +2,10 @@ import React, { useState, Component } from "react";
 import "./App.css";
 import mapboxgl, { Marker } from "mapbox-gl";
 import axios from "axios";
-import data from "./data.json";
+// import data from "./data.json";
 
 mapboxgl.accessToken =
-  "pk.eyJ1IjoiYW5kcmV3LWZyYXppZXI2IiwiYSI6ImNrN2p6aHg1OTBicmMzZGxremVzaXE0ZmwifQ.L0Zrsw5cgsZNGRlXgsIHUA";
+  "pk.eyJ1IjoiYW5kcmV3LWZyYXppZXI2IiwiYSI6ImNrN2tpMHpuYjAyYTQzZmw4aXYwd2hlNXoifQ.dH4T9CmV2ir0TH5oYLferw";
 export default class App extends Component {
   constructor(props) {
     super(props);
