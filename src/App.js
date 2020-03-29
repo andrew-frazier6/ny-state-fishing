@@ -5,7 +5,7 @@ import axios from "axios";
 // import data from "./data.json";
 
 mapboxgl.accessToken =
-  "pk.eyJ1IjoiYW5kcmV3LWZyYXppZXI2IiwiYSI6ImNrN2tpMHpuYjAyYTQzZmw4aXYwd2hlNXoifQ.dH4T9CmV2ir0TH5oYLferw";
+  "pk.eyJ1IjoiYW5kcmV3LWZyYXppZXI2IiwiYSI6ImNrN2djajVocTAwN3Ezb3RkY2xldGllM2gifQ.zd_rl93xQrHDhFddfdpuLQ";
 export default class App extends Component {
   constructor(props) {
     super(props);
@@ -13,7 +13,10 @@ export default class App extends Component {
       markers: [],
       lng: -75.409,
       lat: 43.2986,
-      zoom: 6.5
+      zoom: 6.5,
+      sending: false,
+      newLng: "",
+      newLat: ""
     };
   }
   componentDidMount() {
@@ -39,6 +42,22 @@ export default class App extends Component {
       this.setState({ markers: res.data }, () => this.placeMarkers());
     });
   };
+
+  // createSpot = () => {
+  //   this.setState({ sending: true }, () => {
+  //     axios
+  //       .post("http://localhost:8000/newspot/create", {
+  //         location: {lat: this.state.newLng, lng: this.state.newLng},
+  //         name: this.state.newName,
+  //         fishTypes: this.state.newFishTypes,
+  //         publicAccess: this.state.newPublicAccess,
+
+  //       })
+  //       .then(res => {
+  //         this.setState({ sending: false });
+  //       });
+  //   });
+  // };
 
   render() {
     console.log(this.state.marker);
