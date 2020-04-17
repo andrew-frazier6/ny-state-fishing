@@ -1,6 +1,8 @@
 ## NY-STATE-FISHING 
 
-* Becuase I took it a step further and built this with a map, in order to see the API you must run <npm run start> in the terminal. The backend is deployed already so once run, everything will be displayed. 
+* Becuase I took it a step further and built this with a map, in order to see the API you must run <npm run start> in the terminal. The backend is deployed already so once run, everything will be displayed.
+  
+  https://awesome-hamilton-992ea4.netlify.com
 
 ## ABOUT
 
