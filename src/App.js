@@ -16,7 +16,7 @@ export default class App extends Component {
       zoom: 6.5,
       sending: false,
       newLng: "",
-      newLat: ""
+      newLat: "",
     };
   }
   componentDidMount() {
@@ -28,42 +28,29 @@ export default class App extends Component {
       container: this.mapContainer,
       style: "mapbox://styles/andrew-frazier6/ck7gnb8tg19gf1ip4wcgigwbg",
       center: [this.state.lng, this.state.lat],
-      zoom: this.state.zoom
+      zoom: this.state.zoom,
     });
+
     var Marker = this.state.markers.map((item, i) => {
+      var popup = new mapboxgl.Popup({ offset: 35 }).setText([item.fish_types]);
       new mapboxgl.Marker()
         .setLngLat([item.location.longitude, item.location.latitude])
+        .setPopup(popup)
         .addTo(map);
     });
   };
 
   getData = () => {
-    axios.get("https://newyork-fish-api6.herokuapp.com/").then(res => {
+    axios.get("https://newyork-fish-api6.herokuapp.com/").then((res) => {
       this.setState({ markers: res.data }, () => this.placeMarkers());
     });
   };
-
-  // createSpot = () => {
-  //   this.setState({ sending: true }, () => {
-  //     axios
-  //       .post("http://localhost:8000/newspot/create", {
-  //         location: {lat: this.state.newLng, lng: this.state.newLng},
-  //         name: this.state.newName,
-  //         fishTypes: this.state.newFishTypes,
-  //         publicAccess: this.state.newPublicAccess,
-
-  //       })
-  //       .then(res => {
-  //         this.setState({ sending: false });
-  //       });
-  //   });
-  // };
 
   render() {
     console.log(this.state.marker);
     return (
       <div>
-        <div ref={el => (this.mapContainer = el)} className="mapContainer" />
+        <div ref={(el) => (this.mapContainer = el)} className="mapContainer" />
       </div>
     );
   }
