@@ -32,7 +32,9 @@ export default class App extends Component {
     });
 
     var Marker = this.state.markers.map((item, i) => {
-      var popup = new mapboxgl.Popup({ offset: 35 }).setText([item.fish_types]);
+      var popup = new mapboxgl.Popup({
+        offset: 35,
+      }).setText([item.name, item.fish_types]);
       new mapboxgl.Marker()
         .setLngLat([item.location.longitude, item.location.latitude])
         .setPopup(popup)
