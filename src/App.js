@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
-import mapboxgl, { Marker } from "mapbox-gl";
+import mapboxgl from "mapbox-gl";
 import axios from "axios";
 
 mapboxgl.accessToken =
@@ -30,7 +30,7 @@ export default class App extends Component {
       zoom: this.state.zoom,
     });
 
-    var Marker = this.state.markers.map((item, i) => {
+    this.state.markers.map((item) => {
       var popup = new mapboxgl.Popup({
         offset: 35,
         className: "my-class",
