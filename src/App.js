@@ -30,7 +30,7 @@ export default class App extends Component {
       zoom: this.state.zoom,
     });
 
-    this.state.markers.map((item, i) => {
+    this.state.markers.forEach((item) => {
       var popup = new mapboxgl.Popup({
         offset: 35,
         className: "my-class",
