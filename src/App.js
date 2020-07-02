@@ -1,8 +1,7 @@
-import React, { useState, Component } from "react";
+import React, { Component } from "react";
 import "./App.css";
 import mapboxgl, { Marker } from "mapbox-gl";
 import axios from "axios";
-// import data from "./data.json";
 
 mapboxgl.accessToken =
   "pk.eyJ1IjoiYW5kcmV3LWZyYXppZXI2IiwiYSI6ImNrN2djajVocTAwN3Ezb3RkY2xldGllM2gifQ.zd_rl93xQrHDhFddfdpuLQ";
@@ -34,7 +33,10 @@ export default class App extends Component {
     var Marker = this.state.markers.map((item, i) => {
       var popup = new mapboxgl.Popup({
         offset: 35,
-      }).setText([item.name, item.fish_types]);
+        className: "my-class",
+      }).setHTML([
+        `<h1>${item.name}</h1><h4>Fish Types:</h4><p>${item.fish_types}</p>`,
+      ]);
       new mapboxgl.Marker()
         .setLngLat([item.location.longitude, item.location.latitude])
         .setPopup(popup)
