@@ -35,7 +35,7 @@ export default class App extends Component {
         offset: 35,
         className: "my-class",
       }).setHTML([
-        `<h1>${item.name}</h1><h4>Fish Types:</h4><p>${item.fish_types}</p>`,
+        `<h1>${item.name}</h1><h3>${item.county} County</h3><h4>Fish Types:</h4><p>${item.fish_types}</p><h4>Water Access:</h4><p>${item.public_access}</p>`,
       ]);
       new mapboxgl.Marker()
         .setLngLat([item.location.longitude, item.location.latitude])

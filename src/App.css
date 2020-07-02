@@ -9,3 +9,7 @@
 .my-class {
   color: rgb(17, 17, 17);
 }
+
+.my-class h3 {
+  color: green;
+}
